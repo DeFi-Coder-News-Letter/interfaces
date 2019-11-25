@@ -1,6 +1,7 @@
 Please follow steps to run example in your terminal,
 
 Step 1: install node and web3
+
         brew install node 
         npm install web3
 
